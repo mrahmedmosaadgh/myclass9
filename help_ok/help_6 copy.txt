@@ -1,0 +1,10 @@
+Save your key
+Please save your secret key in a safe place since you won't be able to view it again. Keep it secure, as anyone with your API key can make requests on your behalf. If you do lose it, you'll need to generate a new one.
+
+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
+Permissions
+Read and write API resources
+
+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
+
+https://platform.openai.com/api-keys
